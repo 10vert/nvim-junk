@@ -1,0 +1,42 @@
+[submodule "nvim/site/pack/packer/start/cmp-nvim-lsp"]
+	path = nvim/site/pack/packer/start/cmp-nvim-lsp
+	url = ./nvim/site/pack/packer/start/cmp-nvim-lsp
+[submodule "nvim/site/pack/packer/start/harpoon"]
+	path = nvim/site/pack/packer/start/harpoon
+	url = ./nvim/site/pack/packer/start/harpoon
+[submodule "nvim/site/pack/packer/start/lsp-zero.nvim"]
+	path = nvim/site/pack/packer/start/lsp-zero.nvim
+	url = ./nvim/site/pack/packer/start/lsp-zero.nvim
+[submodule "nvim/site/pack/packer/start/LuaSnip"]
+	path = nvim/site/pack/packer/start/LuaSnip
+	url = ./nvim/site/pack/packer/start/LuaSnip
+[submodule "nvim/site/pack/packer/start/mason-lspconfig.nvim"]
+	path = nvim/site/pack/packer/start/mason-lspconfig.nvim
+	url = ./nvim/site/pack/packer/start/mason-lspconfig.nvim
+[submodule "nvim/site/pack/packer/start/mason.nvim"]
+	path = nvim/site/pack/packer/start/mason.nvim
+	url = ./nvim/site/pack/packer/start/mason.nvim
+[submodule "nvim/site/pack/packer/start/moonfly"]
+	path = nvim/site/pack/packer/start/moonfly
+	url = ./nvim/site/pack/packer/start/moonfly
+[submodule "nvim/site/pack/packer/start/nvim-cmp"]
+	path = nvim/site/pack/packer/start/nvim-cmp
+	url = ./nvim/site/pack/packer/start/nvim-cmp
+[submodule "nvim/site/pack/packer/start/nvim-lspconfig"]
+	path = nvim/site/pack/packer/start/nvim-lspconfig
+	url = ./nvim/site/pack/packer/start/nvim-lspconfig
+[submodule "nvim/site/pack/packer/start/nvim-treesitter"]
+	path = nvim/site/pack/packer/start/nvim-treesitter
+	url = ./nvim/site/pack/packer/start/nvim-treesitter
+[submodule "nvim/site/pack/packer/start/packer.nvim"]
+	path = nvim/site/pack/packer/start/packer.nvim
+	url = ./nvim/site/pack/packer/start/packer.nvim
+[submodule "nvim/site/pack/packer/start/plenary.nvim"]
+	path = nvim/site/pack/packer/start/plenary.nvim
+	url = ./nvim/site/pack/packer/start/plenary.nvim
+[submodule "nvim/site/pack/packer/start/rose-pine"]
+	path = nvim/site/pack/packer/start/rose-pine
+	url = ./nvim/site/pack/packer/start/rose-pine
+[submodule "nvim/site/pack/packer/start/telescope.nvim"]
+	path = nvim/site/pack/packer/start/telescope.nvim
+	url = ./nvim/site/pack/packer/start/telescope.nvim
